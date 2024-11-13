@@ -1,8 +1,0 @@
-2024-09-24 10:39:39 log_util.py[line:27] INFO 开始使用用户名testABC1001和密码test@ABC执行登录操作
-2024-09-24 10:39:53 log_util.py[line:27] INFO 登录操作成功！
-2024-09-24 10:40:15 log_util.py[line:27] INFO 开始使用用户名testman1980和密码wulaoshi1978执行登录操作
-2024-09-24 10:40:29 log_util.py[line:27] INFO 登录操作成功！
-2024-10-28 14:51:23 log_util.py[line:27] INFO 开始使用用户名testABC1001和密码test@ABC执行登录操作
-2024-10-28 14:51:37 log_util.py[line:27] INFO 登录操作成功！
-2024-10-28 14:51:53 log_util.py[line:27] INFO 开始使用用户名testman1980和密码wulaoshi1978执行登录操作
-2024-10-28 14:52:07 log_util.py[line:27] INFO 登录操作成功！
